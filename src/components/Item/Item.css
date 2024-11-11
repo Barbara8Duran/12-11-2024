@@ -1,0 +1,25 @@
+*{
+    text-decoration: none;
+}
+
+.prods {
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.prods text {
+    color: black;
+}
+
+.prods img {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+
+.prods h4 {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(170, 95, 150);
+}

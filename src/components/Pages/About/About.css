@@ -1,0 +1,15 @@
+.hero-2 {
+    background-attachment: fixed;
+}
+
+.banner-a{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+
+.banner-a p{
+    max-width: 650px;
+    justify-content: left;
+}
